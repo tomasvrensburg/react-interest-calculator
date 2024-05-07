@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-interest-calculator/static/css/main.b54b8a3b.css",
+    "main.js": "/react-interest-calculator/static/js/main.8a1dc7cd.js",
+    "static/js/453.65e3fcd5.chunk.js": "/react-interest-calculator/static/js/453.65e3fcd5.chunk.js",
+    "static/media/piggyBank.png": "/react-interest-calculator/static/media/piggyBank.2f0e11204389c4d2171e.png",
+    "static/media/bankFees.png": "/react-interest-calculator/static/media/bankFees.9b01af33e2703673c882.png",
+    "static/media/withdraw.png": "/react-interest-calculator/static/media/withdraw.9be1eabe855dec58bab8.png",
+    "static/media/interest.png": "/react-interest-calculator/static/media/interest.a808df789cd0e323fe03.png",
+    "index.html": "/react-interest-calculator/index.html",
+    "main.b54b8a3b.css.map": "/react-interest-calculator/static/css/main.b54b8a3b.css.map",
+    "main.8a1dc7cd.js.map": "/react-interest-calculator/static/js/main.8a1dc7cd.js.map",
+    "453.65e3fcd5.chunk.js.map": "/react-interest-calculator/static/js/453.65e3fcd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b54b8a3b.css",
+    "static/js/main.8a1dc7cd.js"
+  ]
+}
