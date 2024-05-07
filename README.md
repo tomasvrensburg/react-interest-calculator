@@ -17,6 +17,7 @@ A simple interest calculator built with React using local state management, allo
 - React Bootstrap
 - CSS
 - Local State Management
+- JavaScript/JSX for transaction logic
 
 ## Files
 
